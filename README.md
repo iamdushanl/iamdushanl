@@ -42,7 +42,7 @@
 ## 📚 Education
 **BSc (Hons) in Data Science & Business Analytics**  
 General Sir John Kotelawala Defence University (KDU)  
-*2023 – 2027 (Expected)*
+*2024 – 2027 (Expected)*
 
 ---
 
