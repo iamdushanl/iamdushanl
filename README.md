@@ -8,6 +8,25 @@
 
 ---
 
+## 🏆 Achievements & Featured Projects
+
+### **AyurOdyssey – Digital Ayurvedic Wellness Platform**
+**🥇 1st Place (Open Category) – KDU Young Entrepreneurs Exhibition 2025**
+
+AyurOdyssey is an **award-winning WordPress-based digital wellness platform** designed to modernize access to traditional Ayurvedic healthcare and products.
+
+**My Contributions:**
+- Built and customized the full website using **WordPress**
+- Integrated **online appointment booking** for Ayurvedic consultations
+- Implemented **e-commerce functionality** for Ayurvedic products
+- Enabled **free and paid teleconsultation workflows**
+- Collaborated with a multidisciplinary team to deliver a production-ready prototype
+
+🔗 **Project Recognition:**  
+[View Award & Project Announcement](https://www.linkedin.com/posts/dushan-liyanage_kdu-entrepreneurship-ayurodyssey-activity-7324124598931771392-kdGj)
+
+---
+
 ## 🚀 What I'm Currently Focused On
 - Building strong fundamentals in **Linux**, **Git/GitHub**, and **Python**
 - Learning **DevOps concepts**: containers, CI/CD pipelines, and cloud platforms
