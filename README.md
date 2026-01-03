@@ -1,60 +1,61 @@
 # Hi 👋, I'm Dushan Liyanage
 
-🎓 3rd-year undergraduate in **Data Science & Business Analytics** at  
-**General Sir John Kotelawala Defence University (KDU)** — *Expected 2027*
+🎓 **BSc (Hons) in Data Science & Business Analytics**  
+General Sir John Kotelawala Defence University (KDU) — *Expected 2027*
 
-🔧 **Aspiring DevOps Engineer** with a strong interest in cloud infrastructure, automation, and reliable systems.  
-📊 Background in data science helps me approach problems analytically and systematically.
+🔧 **Aspiring DevOps Engineer** with hands-on experience in web systems and a strong interest in cloud infrastructure, automation, and reliable, scalable platforms.  
+📊 My background in data science enables me to approach engineering problems with structured thinking, metrics, and system-level reasoning.
 
 ---
 
-## 🏆 Achievements & Featured Projects
+## 🏆 Highlighted Achievement
 
 ### **AyurOdyssey – Digital Ayurvedic Wellness Platform**
 **🥇 1st Place (Open Category) – KDU Young Entrepreneurs Exhibition 2025**
 
-AyurOdyssey is an **award-winning WordPress-based digital wellness platform** designed to modernize access to traditional Ayurvedic healthcare and products.
+An award-winning **WordPress-based digital wellness platform** built to modernize access to Ayurvedic healthcare and products.
 
-**My Contributions:**
-- Built and customized the full website using **WordPress**
-- Integrated **online appointment booking** for Ayurvedic consultations
-- Implemented **e-commerce functionality** for Ayurvedic products
-- Enabled **free and paid teleconsultation workflows**
-- Collaborated with a multidisciplinary team to deliver a production-ready prototype
+**Key Contributions:**
+- Designed, built, and customized the complete **WordPress application**
+- Implemented **online appointment scheduling** for practitioner consultations
+- Integrated **e-commerce workflows** for Ayurvedic products
+- Enabled **free and paid teleconsultation flows**
+- Collaborated with a cross-functional team to deliver a production-ready prototype evaluated by industry and academic panels
 
-🔗 **Project Recognition:**  
-[View Award & Project Announcement](https://www.linkedin.com/posts/dushan-liyanage_kdu-entrepreneurship-ayurodyssey-activity-7324124598931771392-kdGj)
-
----
-
-## 🚀 What I'm Currently Focused On
-- Building strong fundamentals in **Linux**, **Git/GitHub**, and **Python**
-- Learning **DevOps concepts**: containers, CI/CD pipelines, and cloud platforms
-- Applying data-driven thinking to engineering and system design
-- Improving problem-solving through hands-on practice and projects
+🔗 **Recognition:**  
+[Project & Award Announcement](https://www.linkedin.com/posts/dushan-liyanage_kdu-entrepreneurship-ayurodyssey-activity-7324124598931771392-kdGj)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Current Focus
+- Strengthening core systems knowledge: **Linux**, **Git**, and **Python**
+- Learning **DevOps fundamentals**: containers, CI/CD pipelines, and cloud infrastructure
+- Applying analytical thinking to system design, automation, and reliability
+- Building hands-on projects that reflect real-world engineering constraints
 
-### Currently Using
+---
+
+## 🛠️ Technical Skills
+
+### Core Tools
 - **Linux**
 - **Git & GitHub**
 - **Python**
+- **WordPress**
 
-### Learning & Exploring
+### Learning & Expanding
 - **Docker**
 - **Kubernetes**
-- **CI/CD**
+- **CI/CD Pipelines**
 - **Cloud Platforms (AWS / Azure / GCP)**
 
 ---
 
-## 📌 Areas of Interest
+## 📌 Engineering Interests
 - DevOps & Cloud Engineering
-- Automation & Infrastructure
-- Data Analysis & Engineering Fundamentals
-- Scalable and Reliable Systems
+- Infrastructure Automation
+- System Reliability & Scalability
+- Data-Informed Engineering Decisions
 
 ---
 
@@ -65,9 +66,9 @@ General Sir John Kotelawala Defence University (KDU)
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 - LinkedIn: [linkedin.com/in/dushan-liyanage](https://www.linkedin.com/in/dushan-liyanage/)
 
 ---
 
-⭐ *I use GitHub to learn, experiment, and gradually build real-world engineering skills.*
+⭐ *I use GitHub to document learning, build practical systems, and grow toward production-grade engineering work.*
