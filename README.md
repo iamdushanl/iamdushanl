@@ -54,7 +54,7 @@ An award-winning **WordPress-based digital wellness platform** designed to moder
 ## 🏅 Certifications
 
 - **LFS101: Introduction to Linux** – The Linux Foundation (Jan 2026)  
-  🔗 https://www.credly.com/earner/earned/share/6c2cdb21-7b11-4630-b591-aef9d64a2b04
+  🔗 [https://www.credly.com/earner/earned/share/6c2cdb21-7b11-4630-b591-aef9d64a2b04](https://www.credly.com/badges/6c2cdb21-7b11-4630-b591-aef9d64a2b04/public_url)
 
 - **Crash Course on Python** – Google (Coursera, Jun 2025)  
   🔗 https://coursera.org/verify/T0WKDSSR17T6
